@@ -114,18 +114,22 @@ nav ul li:hover {
     border-color: orange;
   }
 }
-#project {
+#project,
+#certificate {
   background: var(--darker-color);
   padding: 6rem;
+  border-bottom: 0.4rem solid var(--lighting-color);
 }
-#project h2 {
+#project h2,
+#certificate h2 {
   font-size: 5rem;
   font-weight: bold;
   color: white;
   text-align: center;
   padding: 2rem 0;
 }
-.project_container {
+.project_container,
+.certificate_container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   gap: 4rem;
