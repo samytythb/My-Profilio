@@ -138,7 +138,7 @@ nav ul li:hover {
   margin-left: -3px;
 }
 .experience-container {
-  padding: 10px 40px;
+  padding: 1rem 4rem;
   position: relative;
   background-color: inherit;
   width: 50%;
@@ -146,7 +146,7 @@ nav ul li:hover {
 .experience-container::after {
   content: "";
   position: absolute;
-  width: 25px;
+  width: 2.5rem;
   height: 25px;
   right: -17px;
   background-color: white;
@@ -169,7 +169,7 @@ nav ul li:hover {
   top: 22px;
   width: 0;
   z-index: 1;
-  right: 30px;
+  right: 3rem;
   border: medium solid white;
   border-width: 10px 0 10px 10px;
   border-color: transparent transparent transparent white;
@@ -181,7 +181,7 @@ nav ul li:hover {
   top: 22px;
   width: 0;
   z-index: 1;
-  left: 30px;
+  left: 3rem;
   border: medium solid white;
   border-width: 10px 10px 10px 0;
   border-color: transparent white transparent transparent;
