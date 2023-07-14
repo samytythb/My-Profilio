@@ -193,7 +193,7 @@ nav ul li:hover {
 .experience_content {
   z-index: 1;
   margin-top: -15px;
-  padding: 20px 30px;
+  padding: 2rem 3rem;
   background-color: var(--dark-color);
   position: relative;
   border-radius: 6px;
